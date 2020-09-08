@@ -1,7 +1,7 @@
 ### About Me
 * I'm a full-stack software engineer
 
-* My side project is building a web application that lets me manage and share the things that make me smart
+* My side project is building a web application that lets people manage and share the things that make them smart
 
 * I don't use Twitter
 
