@@ -3,7 +3,7 @@
 
 * My side project is building a web application that helps people manage and share the things that make them smart
 
-* I don't use Twitter
+* I don't use Twitter or Facebook
 
 * [LinkedIn profile](https://www.linkedin.com/in/tomcarroll/)
 
